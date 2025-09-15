@@ -1,4 +1,4 @@
-✓ Capstone Project – Salesforce CRM
+Authororpstone Project – Salesforce CRM
 
 •Project Title
 (Social Media Lead Capture & Tracking – Salesforce CRM for Marketing Campaigns)
@@ -26,6 +26,4 @@ The system automates lead assignment, monitors campaign performance, and provide
  Usage
 1. Clone or download this repository.  
 2. Open the PDF to review the complete project design and implementation phases.  
-3. Can be used as a reference for Salesforce Certification, academic projects, or interview preparation.  
-
- Author Sanika.P.Thakare
+3. Can be used as a reference for Salesforce Certification, academic projects, or interview preparation.
