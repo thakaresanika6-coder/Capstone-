@@ -1,4 +1,4 @@
-Authororpstone Project – Salesforce CRM
+capstone Project – Salesforce CRM
 
 •Project Title
 (Social Media Lead Capture & Tracking – Salesforce CRM for Marketing Campaigns)
